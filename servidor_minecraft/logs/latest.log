@@ -1347,3 +1347,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24May2025 01:46:06.635] [Server thread/INFO] [Modonomicon/]: Books built.
 [24May2025 01:46:06.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alde joined the game
 [24May2025 01:46:07.530] [Server thread/INFO] [Jade/]: Syncing config to Alde (b12be8a3-4193-3f4d-8183-5abc8d1e7421)
+[24May2025 01:53:50.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alde lost connection: Disconnected
+[24May2025 01:53:50.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alde left the game
