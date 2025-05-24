@@ -1333,3 +1333,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24May2025 01:30:13.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b949d46[id=<null>,name=Alde,properties={},legacy=false] (/127.14.161.152:33599) lost connection: Disconnected
 [24May2025 01:34:27.300] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16b40f55[id=<null>,name=Alde,properties={},legacy=false] (/127.14.161.152:58709) lost connection: Disconnected
 [24May2025 01:36:21.201] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@359e50c[id=<null>,name=Alde,properties={},legacy=false] (/127.14.161.152:48869) lost connection: Disconnected
+[24May2025 01:38:01.400] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f9977a8[id=<null>,name=Alde,properties={},legacy=false] (/127.14.161.152:38529) lost connection: Disconnected
+[24May2025 01:46:06.398] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tconstruct:skyroot_planks_slab removed now.
+[24May2025 01:46:06.402] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tconstruct:bloodshroom_planks_slab removed now.
+[24May2025 01:46:06.403] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tconstruct:enderbark_planks_slab removed now.
+[24May2025 01:46:06.405] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tconstruct:greenheart_planks_slab removed now.
+[24May2025 01:46:06.407] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tconstruct:skyroot_planks_slab removed now.
+[24May2025 01:46:06.413] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tconstruct:bloodshroom_planks_slab removed now.
+[24May2025 01:46:06.413] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tconstruct:enderbark_planks_slab removed now.
+[24May2025 01:46:06.414] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tconstruct:greenheart_planks_slab removed now.
+[24May2025 01:46:06.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alde[/127.14.161.152:36821] logged in with entity id 532 at (550.9262701009749, 67.0, -586.147094607158)
+[24May2025 01:46:06.628] [Server thread/INFO] [Modonomicon/]: Building books ...
+[24May2025 01:46:06.635] [Server thread/INFO] [Modonomicon/]: Books built.
+[24May2025 01:46:06.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alde joined the game
+[24May2025 01:46:07.530] [Server thread/INFO] [Jade/]: Syncing config to Alde (b12be8a3-4193-3f4d-8183-5abc8d1e7421)
