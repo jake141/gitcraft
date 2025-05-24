@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "reliquary:zombie_heart"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "reliquary:rib_bone"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "reliquary:catalyzing_gland"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "reliquary:chelicerae"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "reliquary:slime_pearl"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "reliquary:nebulous_heart"
+          }
+        ]
+      }
+    ],
+    "random_sequence": "cabin:chests/reliquary_overworld_drop"
+  }

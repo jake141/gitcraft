@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "4656f257dea7309d91cd48c0f1bf4451"
+	name: "jake14121#4656f257"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		374CDBF68F90BDC9: 35
+	}
+	started: {
+		374CDBF68F90BDC9: 1748039693141L
+		1634333847CCE52A: 1748039693141L
+		0000000000000001: 1748039693141L
+		2F2BA8C2AC2E0B93: 1748039693141L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

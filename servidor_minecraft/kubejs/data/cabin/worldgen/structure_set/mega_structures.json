@@ -1,0 +1,24 @@
+{
+    "placement": {
+      "type": "integrated_api:advanced_random_spread",
+      "super_exclusion_zone": {
+        "chunk_count": 8,
+        "other_set": "#cabin:mega_structure_avoid"
+      },
+      "salt": 1691172088,
+      "separation": 8,
+      "spacing": 32,
+      "spread_type": "triangular"
+    },
+    "structures": [
+      {
+        "structure": "cabin:abandoned_engineer_house",
+        "weight": 1
+      },
+      {
+        "structure": "cabin:blacksmith_shop",
+        "weight": 1
+      }
+    ]
+  }
+  

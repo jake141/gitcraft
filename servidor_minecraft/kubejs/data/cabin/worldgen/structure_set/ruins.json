@@ -1,0 +1,19 @@
+{
+  "placement": {
+    "type": "integrated_api:advanced_random_spread",
+    "super_exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "#cabin:ruins_avoid"
+    },
+    "salt": 1316631564,
+    "separation": 12,
+    "spacing": 30,
+    "spread_type": "triangular"
+  },
+  "structures": [
+    {
+      "structure": "cabin:ruins_dripstone",
+      "weight": 1
+    }
+  ]
+}

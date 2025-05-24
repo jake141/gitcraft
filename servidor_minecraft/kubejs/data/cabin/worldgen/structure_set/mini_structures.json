@@ -1,0 +1,24 @@
+{
+    "placement": {
+      "type": "integrated_api:advanced_random_spread",
+      "super_exclusion_zone": {
+        "chunk_count": 4,
+        "other_set": "#cabin:mini_structure_avoid"
+      },
+      "salt": 84374826,
+      "separation": 8,
+      "spacing": 18,
+      "spread_type": "triangular"
+    },
+    "structures": [
+      {
+        "structure": "cabin:campsite",
+        "weight": 1
+      },
+      {
+        "structure": "cabin:log_cabin",
+        "weight": 1
+      }
+    ]
+  }
+  

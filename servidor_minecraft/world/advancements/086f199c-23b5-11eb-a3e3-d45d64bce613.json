@@ -1,0 +1,410 @@
+{
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "architects_palette:main/root": {
+    "criteria": {
+      "craftingtable": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-05-17 16:53:27 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-05-17 18:15:05 -0400",
+      "rocky_shrubland": "2025-05-17 18:13:56 -0400",
+      "jacaranda_glade": "2025-05-17 18:35:01 -0400",
+      "cold_desert": "2025-05-18 14:52:07 -0400",
+      "orchard": "2025-05-17 16:53:29 -0400",
+      "overgrown_greens": "2025-05-17 18:14:23 -0400",
+      "coniferous_forest": "2025-05-18 14:46:00 -0400",
+      "spider_nest": "2025-05-17 17:07:22 -0400",
+      "redwood_forest": "2025-05-17 18:18:41 -0400",
+      "aspen_glade": "2025-05-18 14:44:59 -0400",
+      "seasonal_forest": "2025-05-18 14:45:55 -0400",
+      "lavender_field": "2025-05-17 17:43:36 -0400",
+      "fir_clearing": "2025-05-18 14:46:13 -0400",
+      "prairie": "2025-05-17 18:17:06 -0400",
+      "grassland": "2025-05-18 14:41:16 -0400",
+      "gravel_beach": "2025-05-18 14:46:54 -0400",
+      "glowing_grotto": "2025-05-19 19:39:31 -0400"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-17 16:53:29 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "orchard": "2025-05-17 16:53:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-17 16:55:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-17 16:55:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-17 16:55:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-05-18 15:00:05 -0400",
+      "minecraft:frozen_river": "2025-05-18 14:51:57 -0400",
+      "minecraft:river": "2025-05-17 17:00:48 -0400",
+      "minecraft:snowy_plains": "2025-05-18 14:54:55 -0400",
+      "minecraft:swamp": "2025-05-18 15:07:02 -0400",
+      "minecraft:forest": "2025-05-18 14:58:58 -0400",
+      "minecraft:frozen_ocean": "2025-05-18 14:47:13 -0400",
+      "minecraft:deep_frozen_ocean": "2025-05-18 14:49:17 -0400",
+      "minecraft:snowy_beach": "2025-05-18 14:47:03 -0400",
+      "minecraft:meadow": "2025-05-18 14:57:31 -0400",
+      "minecraft:plains": "2025-05-18 14:55:21 -0400"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-17 17:01:20 -0400"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-05-17 18:20:43 -0400",
+      "opened_chest": "2025-05-17 17:01:20 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-17 17:02:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-17 17:13:51 -0400",
+      "minecraft:spider": "2025-05-17 17:23:09 -0400",
+      "minecraft:creeper": "2025-05-17 17:10:26 -0400",
+      "minecraft:slime": "2025-05-18 15:09:01 -0400",
+      "minecraft:cave_spider": "2025-05-17 17:12:16 -0400",
+      "minecraft:enderman": "2025-05-17 20:14:07 -0400",
+      "minecraft:zombie": "2025-05-17 17:10:51 -0400",
+      "minecraft:drowned": "2025-05-17 17:26:33 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-05-17 17:10:26 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 17:12:16 -0400"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-17 17:12:18 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-17 17:14:36 -0400"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-17 17:14:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-05-17 17:14:50 -0400",
+      "cooked_mutton": "2025-05-18 14:24:23 -0400",
+      "cooked_beef": "2025-05-17 18:09:45 -0400",
+      "baked_potato": "2025-05-17 18:47:02 -0400",
+      "apple": "2025-05-17 20:21:19 -0400",
+      "bread": "2025-05-17 19:31:34 -0400",
+      "cooked_chicken": "2025-05-17 20:04:10 -0400",
+      "carrot": "2025-05-17 17:17:03 -0400"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-17 17:14:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-17 17:16:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-17 17:17:53 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 17:26:59 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 17:26:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-17 17:29:11 -0400"
+    },
+    "done": false
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-05-17 17:51:40 -0400"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-17 17:51:40 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-05-17 18:04:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-17 18:17:56 -0400"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-17 18:20:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-17 18:21:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-17 18:29:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-17 18:34:03 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-17 18:41:13 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-05-17 18:41:20 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "requirement": "2025-05-17 19:01:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-17 19:08:04 -0400"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-05-17 19:09:11 -0400"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-17 19:14:26 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-05-17 19:23:11 -0400"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-05-17 20:21:05 -0400"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-05-18 14:24:19 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-05-18 14:53:43 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-18 14:56:23 -0400"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-18 14:56:23 -0400"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-18 15:09:02 -0400"
+    },
+    "done": false
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 18:30:27 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 19:55:23 -0400"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-05-18 22:15:17 -0400"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-05-18 22:18:39 -0400"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-05-19 19:30:15 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

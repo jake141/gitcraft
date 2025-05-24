@@ -1,0 +1,19 @@
+{
+  "placement": {
+    "type": "integrated_api:advanced_random_spread",
+    "super_exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "#cabin:railshaft_avoid"
+    },
+    "salt": 1776584262,
+    "separation": 12,
+    "spacing": 30,
+    "spread_type": "triangular"
+  },
+  "structures": [
+    {
+      "structure": "cabin:railshaft",
+      "weight": 1
+    }
+  ]
+}

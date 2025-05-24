@@ -1,0 +1,48 @@
+{
+    "values": [
+        "minecraft:desert_pyramids",
+        "minecraft:jungle_temples",
+        "minecraft:pillager_outposts",
+        "minecraft:villages",
+        "minecraft:swamp_huts",
+        "minecraft:woodland_mansions",
+        
+        {
+            "id": "repurposed_structures:fortresses_overworld",
+            "required": false
+        },
+        {
+            "id": "repurposed_structures:mansions_overworld",
+            "required": false
+        },
+        {
+            "id": "repurposed_structures:mansions_mangrove",
+            "required": false
+        },
+        {
+            "id": "repurposed_structures:villages_overworld",
+            "required": false
+        },
+        {
+            "id": "repurposed_structures:outposts_overworld",
+            "required": false
+        },
+        {
+            "id": "repurposed_structures:cities_overworld",
+            "required": false
+        },
+        {
+            "id": "repurposed_structures:pyramids_overworld",
+            "required": false
+        },
+        {
+            "id": "repurposed_structures:witch_huts_overworld",
+            "required": false
+        },
+
+        {
+            "id": "dungeoncrawl:dungeons",
+            "required": false
+        }
+    ]
+}

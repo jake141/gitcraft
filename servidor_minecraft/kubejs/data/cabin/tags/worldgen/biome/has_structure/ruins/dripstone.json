@@ -1,0 +1,15 @@
+{
+    "values": [
+        "#minecraft:is_forest",
+        "#minecraft:is_taiga",
+        "#minecraft:is_hill",
+        "#minecraft:is_jungle",
+        "#forge:is_plains",
+        "#forge:is_swamp",
+        "#forge:is_lush",
+
+        "minecraft:savanna",
+        "minecraft:meadow",
+        "minecraft:cherry_grove"
+    ]
+}

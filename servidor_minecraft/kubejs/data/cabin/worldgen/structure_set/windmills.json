@@ -1,0 +1,19 @@
+{
+  "placement": {
+    "type": "integrated_api:advanced_random_spread",
+    "super_exclusion_zone": {
+      "chunk_count": 4,
+      "other_set": "#cabin:windmill_avoid"
+    },
+    "salt": 2132137514,
+    "separation": 8,
+    "spacing": 20,
+    "spread_type": "triangular"
+  },
+  "structures": [
+    {
+      "structure": "cabin:broken_windmill",
+      "weight": 1
+    }
+  ]
+}

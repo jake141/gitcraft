@@ -1,0 +1,92 @@
+[01:28:24] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[01:28:24] [INIT] Loaded plugins:
+[01:28:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[01:28:24] [INIT] - com.almostreliable.morejs.Plugin
+[01:28:24] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[01:28:24] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[01:28:24] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[01:28:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[01:28:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[01:28:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[01:28:24] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[01:28:24] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[01:28:24] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
+[01:28:24] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[01:28:24] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[01:28:24] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[01:28:24] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[01:28:25] [INFO] _helper.js#4: Loaded Java class 'net.minecraft.core.Registry'
+[01:28:25] [INFO] _helper.js#6: Loaded Java class 'net.minecraft.tags.TagKey'
+[01:28:25] [INFO] _helper.js#7: Loaded Java class 'net.minecraft.core.Direction$AxisDirection'
+[01:28:25] [INFO] _helper.js#9: Loaded Java class 'java.util.Random'
+[01:28:25] [INFO] _helper.js#10: Loaded Java class 'dev.latvian.mods.kubejs.item.InputItem'
+[01:28:25] [INFO] _helper.js#11: Loaded Java class 'dev.latvian.mods.kubejs.item.OutputItem'
+[01:28:25] [INFO] _helper.js#12: Loaded Java class 'dev.latvian.mods.kubejs.fluid.InputFluid'
+[01:28:25] [INFO] _helper.js#13: Loaded Java class 'dev.latvian.mods.kubejs.fluid.OutputFluid'
+[01:28:25] [INFO] _helper.js#14: Loaded Java class 'dev.latvian.mods.kubejs.fluid.FluidStackJS'
+[01:28:25] [INFO] _helper.js#15: Loaded Java class 'com.google.gson.JsonObject'
+[01:28:25] [INFO] _helper.js#17: Loaded Java class 'net.minecraft.world.level.Level'
+[01:28:25] [INFO] Loaded script server_scripts:_helper.js in 0.035 s
+[01:28:25] [INFO] Loaded script server_scripts:recipes/metallurgy.js in 0.014 s
+[01:28:25] [INFO] Loaded script server_scripts:recipes/chapters.js in 0.031 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/thermal.js in 0.006 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/ae2.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/create.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/ftbquests.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/projectred_core.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/tconstruct.js in 0.004 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/farmersdelight.js in 0.002 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/architects_palette.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/occultism.js in 0.002 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/waterstrainer.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:quests.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:bonkers_chemistry.js in 0.016 s
+[01:28:25] [INFO] Loaded script server_scripts:loot.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/curios.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/create_central_kitchen.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/create_crystal_clear.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/trials.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/supplementaries.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/reliquary.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/prettypipes.js in 0.003 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/sophstorage.js in 0.003 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/quark.js in 0.002 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/projectred_transmission.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/aquaculture.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/dungeoncrawl.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/moreminecarts.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/computercraft.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/biomesoplenty.js in 0.002 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/balancedflight.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/functionalstorage.js in 0.002 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/projectred_illumination.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:mods/projectred_integration.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:server_compatability/create_enchantment_industry.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:server_compatability/forbidden_arcanus.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:server_compatability/create_power_loader.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:server_compatability/integrated_stronghold.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:_cabin_motd.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:startingitems.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/ad_astra.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:key_mods/createdeco.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:recipes/trading.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:recipes/illusonaryblocks.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:recipes/alchemy.js in 0.003 s
+[01:28:25] [INFO] Loaded script server_scripts:recipes/gem_processing.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:recipes/minecraft.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:recipes/phantomless.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:effectivetools.js in 0.001 s
+[01:28:25] [INFO] Loaded script server_scripts:tags.js in 0.004 s
+[01:28:25] [INFO] Loaded script server_scripts:oregen.js in 0.0 s
+[01:28:25] [INFO] Loaded script server_scripts:better_dynamo_placement.js in 0.001 s
+[01:28:25] [INFO] Loaded 53/53 KubeJS server scripts in 0.191 s with 0 errors and 0 warnings
+[01:28:25] [INFO] Scripts loaded
+[01:28:25] [INFO] Initializing recipe event...
+[01:28:28] [INFO] [minecraft:block_entity_type] Found 1 tags, added 6 objects, removed 0 objects
+[01:28:29] [INFO] [minecraft:item] Found 1365 tags, added 691 objects, removed 3 objects
+[01:28:29] [INFO] [minecraft:block] Found 784 tags, added 477 objects, removed 1 objects
+[01:28:35] [INFO] Processing recipes...
+[01:28:35] [INFO] Found 13238 recipes in 406.0 ms
+[01:28:38] [INFO] Posted recipe events in 3.365 s
+[01:28:39] [INFO] Added 1961 recipes, removed 1528 recipes, modified 171 recipes, with 0 failed recipes in 234.5 ms
+[01:28:44] [INFO] Server resource reload complete!

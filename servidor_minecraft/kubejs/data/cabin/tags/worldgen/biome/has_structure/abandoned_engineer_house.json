@@ -1,0 +1,10 @@
+{
+    "values": [
+        "#forge:is_spooky"
+    ],
+    "remove": [
+        "#forge:is_underground",
+        "#minecraft:is_ocean",
+        "#minecraft:is_river"
+    ]
+}
